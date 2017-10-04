@@ -1,0 +1,7 @@
+; SkinDll.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SkinDll"
+DESCRIPTION  'SkinDll Windows Dynamic Link Library'
+
+EXPORTS
+ CreateSkinObj   ; Explicit exports can go here

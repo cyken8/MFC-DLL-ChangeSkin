@@ -1,0 +1,27 @@
+// FornPart.cpp: implementation of the CFornPart class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "ChangeSkin.h"
+#include "FornPart.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CFornPart::CFornPart()
+{
+
+}
+
+CFornPart::~CFornPart()
+{
+
+}

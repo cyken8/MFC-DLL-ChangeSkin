@@ -1,0 +1,29 @@
+# Microsoft Developer Studio Generated Dependency File, included by SkinDll.mak
+
+.\SkinDll.cpp : \
+	".\SkinDll.h"\
+	
+
+.\SkinDll.rc : \
+	".\res\BackGround.bmp"\
+	".\res\BottomBand.bmp"\
+	".\res\closebutton.bmp"\
+	".\res\closehotbutton.bmp"\
+	".\res\LeftBand.bmp"\
+	".\res\leftbottom.bmp"\
+	".\res\LeftTitle.bmp"\
+	".\res\maxbutton.bmp"\
+	".\res\maxhotbutton.bmp"\
+	".\res\MidTitle.bmp"\
+	".\res\minbutton.bmp"\
+	".\res\minhotbutton.bmp"\
+	".\res\RightBand.bmp"\
+	".\res\rightbottom.bmp"\
+	".\res\RightTitle.bmp"\
+	".\res\SkinDll.rc2"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"c:\program files (x86)\vc98\include\basetsd.h"\
+	

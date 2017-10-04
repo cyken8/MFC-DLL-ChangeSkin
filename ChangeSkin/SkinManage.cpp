@@ -1,0 +1,27 @@
+// SkinManage.cpp: implementation of the CSkinManage class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "ChangeSkin.h"
+#include "SkinManage.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CSkinManage::CSkinManage()
+{
+
+}
+
+CSkinManage::~CSkinManage()
+{
+
+}

@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SkinDll - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\cyk\AppData\Local\Temp\RSPADF2.tmp" with contents
+[
+/nologo /subsystem:windows /dll /incremental:yes /pdb:"Debug/SkinDll.pdb" /debug /machine:I386 /def:".\SkinDll.def" /out:"Debug/SkinDll.ski" /implib:"Debug/SkinDll.lib" /pdbtype:sept 
+".\Debug\SkinDll.obj"
+".\Debug\StdAfx.obj"
+".\Debug\SkinDll.res"
+]
+Creating command line "link.exe @C:\Users\cyk\AppData\Local\Temp\RSPADF2.tmp"
+<h3>Output Window</h3>
+Linking...
+LINK : LNK6004: Debug/SkinDll.ski not found or not built by the last incremental link; performing full link
+   Creating library Debug/SkinDll.lib and object Debug/SkinDll.exp
+
+
+
+<h3>Results</h3>
+SkinDll.ski - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

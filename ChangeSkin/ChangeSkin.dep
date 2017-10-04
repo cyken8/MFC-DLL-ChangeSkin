@@ -1,0 +1,22 @@
+# Microsoft Developer Studio Generated Dependency File, included by ChangeSkin.mak
+
+.\ChangeSkin.cpp : \
+	".\ChangeSkin.h"\
+	".\ChangeSkinDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\ChangeSkin.rc : \
+	".\res\ChangeSkin.ico"\
+	".\res\ChangeSkin.rc2"\
+	
+
+.\ChangeSkinDlg.cpp : \
+	".\ChangeSkin.h"\
+	".\ChangeSkinDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	

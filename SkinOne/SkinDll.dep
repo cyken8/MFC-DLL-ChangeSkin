@@ -1,0 +1,14 @@
+# Microsoft Developer Studio Generated Dependency File, included by SkinDll.mak
+
+.\SkinDll.cpp : \
+	".\SkinDll.h"\
+	".\StdAfx.h"\
+	
+
+.\SkinDll.rc : \
+	".\res\SkinDll.rc2"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
